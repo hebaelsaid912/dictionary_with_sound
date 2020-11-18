@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="NumbersActivity">Numbers</string>
+    <string name="ColorActivity">Colors</string>
+    <string name="FamilyActivity">Family Members</string>
+    <string name="PhrasesActivity">Phrases</string>
+</resources>
